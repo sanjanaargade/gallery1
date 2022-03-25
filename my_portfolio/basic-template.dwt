@@ -1,0 +1,49 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Through My Lens</title>
+<!-- TemplateEndEditable -->
+<link href="/assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/gdz0fzp.css">
+<link rel="stylesheet" href="https://use.typekit.net/gdz0fzp.css">
+<link rel="stylesheet" href="https://use.typekit.net/gdz0fzp.css">
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+	body,td,th {
+    font-size: 14px;
+
+    </style>
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="main-content" type="boolean" value="false" -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+<ul>
+	  <li><a href="../aboutme.html">About</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="gallery1.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	</ul>
+  </nav>
+  <!--Begin Floated Elememts-->
+  <aside><h3>I'm a woman, a daughter, a student, a swimmer. </h3>
+	  	<h3>Join me as I talk about myself and my ambitions. </h3>
+		 <h3>By Sanjana Argade</h3>
+			</aside>
+
+   
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable --><!--End Floated Elements-->
+
+	  </div>
+</body>
+</html>
